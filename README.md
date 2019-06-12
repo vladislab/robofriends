@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Descriptions:
+
+This is a tutorial project created to learn and practice React.js.
+Containing simple website using simple JSON database.
+This website displays a list of Cards where each Card provides an user's information stored in a JSON file such as Name and Email.
+Each user has a randomly generated profile picture based on their IDs.
+
 ## Available Scripts
 
 In the project directory, you can run:
