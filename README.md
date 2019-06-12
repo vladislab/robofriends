@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a tutorial project created to learn and practice React.js.
 Containing simple website using simple JSON database.
 This website displays a list of Cards where each Card provides an user's information stored in a JSON file such as Name and Email.
-Each user has a randomly generated profile picture based on their IDs.
+Each user has a randomly generated profile pictures fetched from https://robohash.org/ based on their IDs.
 
 ## Available Scripts
 
